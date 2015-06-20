@@ -1,0 +1,11 @@
+m = magic(5);
+s = 'string';
+str(1).name = 'Jane Doe';
+str(1).score = 68;
+str(2).name = 'Joe Smith';
+str(2).score = 92;
+TF = logical([1 0 1 1]);
+myCell = {1,'qwerty',[];eye(3),ones(2,3),rand(10)};
+A = membrane(1,2);
+x = 0:0.1:100;
+z = zeros(28,8,8);
